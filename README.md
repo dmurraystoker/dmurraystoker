@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently a work in progress (both the README and me)
+
 <!--
 **dmurraystoker/dmurraystoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
